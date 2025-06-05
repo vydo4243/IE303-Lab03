@@ -3,6 +3,7 @@
 Lab03 môn IE303 - Công nghệ Java.
 
 ## 📁 Cấu trúc thư mục
+```
 LAB03/
 ├── src/ # Mã nguồn chính
 │ └── main/
@@ -23,6 +24,7 @@ LAB03/
 ├── .gitignore # Các file và thư mục không được quản lý bởi Git
 ├── pom.xml # File cấu hình Maven
 └── README.md # Tệp hướng dẫn sử dụng dự án
+```
 
 ## Cách chạy dự án bằng Maven trên VS Code
 1. Đảm bảo rằng bạn đã cài đặt Maven trên máy tính của mình. Bạn có thể kiểm tra bằng cách chạy lệnh sau:
